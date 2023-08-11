@@ -1,0 +1,50 @@
+.auth-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+
+    height: 27rem;
+    width: 35rem;
+    border-radius: 91px;
+    font-size: 30px;
+    margin-top: 33vh;
+    margin-left: 35vw;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    font-size: 25px;
+}
+
+.login {
+    margin-top: 0.5rem;
+    height: 2rem;
+    width: 250px;
+    height: 2rem;
+}
+
+.reg-link-btn {
+    color: blue;
+    font-size: 15px;
+    margin-top: 10px;
+    width: 240px;
+    height: 2rem;
+}
+
+.input {
+    padding: 3px;
+    height: 1.5rem;    
+    width: 240px;
+    height: 1.5rem;
+}
+
+.label {
+    margin-top: 1rem;
+    width: 15rem;
+    height: 2rem;
+}

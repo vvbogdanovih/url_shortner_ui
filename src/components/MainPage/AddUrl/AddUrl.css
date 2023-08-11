@@ -1,0 +1,28 @@
+.url-add{
+    display: flex;
+    height: 36px;
+    flex-direction: row;
+    justify-content: center;
+    align-content: flex-end;
+    flex-wrap: wrap;
+    align-items: stretch;
+
+}
+.link-input{
+    height: 26px;
+    width: 450px;
+    margin-left: 20px;
+}
+
+.label-input{
+    font-size: 26px;
+    
+}
+
+.url-btn{
+    width: 100px;
+    background-color: rgb(255, 255, 0);
+    margin-left: 20px;
+    border-radius: 12px;
+    font-size: 16px;
+}

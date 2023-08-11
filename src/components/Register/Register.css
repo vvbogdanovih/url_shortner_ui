@@ -1,0 +1,51 @@
+.reg-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+
+    height: 36rem;
+    width: 35rem;
+    border-radius: 91px;
+    font-size: 30px;
+
+    margin-top: 27vh;
+    margin-left: 35vw;
+}
+
+.register-form {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    font-size: 25px;
+}
+
+.register {
+    margin-top: 0.5rem;
+    height: 2rem;
+    width: 250px;
+    height: 2rem;
+}
+
+.log-link-btn {
+    color: blue;
+    font-size: 15px;
+    margin-top: 10px;
+    width: 240px;
+    height: 2rem;
+}
+
+.reg-input {
+    padding: 3px;
+    height: 1.5rem;    
+    width: 240px;
+    height: 1.5rem;
+}
+
+.reg-label {
+    margin-top: 1rem;
+    width: 15rem;
+    height: 2rem;
+}

@@ -1,0 +1,35 @@
+.tabs{
+    display: flex;
+    background-color: #D9D9D9;
+
+}
+
+.active-tab{
+    background-color: #B0BEF1;
+    border-radius: 25px 25px 0px 0px;
+    display: flex;
+
+    font-size: 24px;
+    justify-content: center;
+    align-items: center;
+
+    height: 88px;
+    width: 175px;
+
+    padding: 10px;
+}
+
+.our-titles{
+    background-color: rgb(201, 209, 237);
+    border-radius: 25px 25px 0px 0px;
+    display: flex;
+
+    font-size: 24px;
+    justify-content: center;
+    align-items: center;
+
+    height: 88px;
+    width: 175px;
+
+    padding: 10px;
+}
